@@ -1,6 +1,7 @@
-body {
+body,ul,p,h1,h2,h3 {
     margin: 0;
     padding: 0;
+    font-family: "Raleway", sans-serif;
 }
 ul {
     list-style: none;
@@ -8,6 +9,27 @@ ul {
 a {
     text-decoration: none;
 }
-p {
+.container {
+    width: 1620px;
+    margin: auto;
+}
+/* хедер */
+.header {
+    background-color: #121212;
+}
+span {
+    color: #B2FFA6;
+}
+.header-link {
+    color: #FFFFFF;
+    font-family: "Oswald", sans-serif;
+}
+.header-list {
+    display: flex;
+    gap: 100px;
+}
+/* hero */
+.hero {
     
 }
+
