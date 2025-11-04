@@ -30,6 +30,17 @@ span {
 }
 /* hero */
 .hero {
-    
+    background-color: #ffffff;
 }
+.hero-title {
 
+}
+.hero-span {
+    color: #000000;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.hero-img {
+    display: inline-block;
+    justify-content: ;
+}
