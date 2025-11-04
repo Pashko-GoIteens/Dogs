@@ -33,7 +33,7 @@ span {
     background-color: #ffffff;
 }
 .hero-title {
-
+    font-size: 64px;
 }
 .hero-span {
     color: #000000;
@@ -41,6 +41,8 @@ span {
     margin-bottom: 20px;
 }
 .hero-img {
-    display: inline-block;
-    justify-content: ;
+    margin-left: auto;
+}
+.hero-link {
+    ma
 }
