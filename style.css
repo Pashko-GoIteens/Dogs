@@ -60,7 +60,7 @@ span {
 .about-title {
     display: flex;
     justify-content: right;
-    
+    margin-bottom: 30px;
 }
 .about-img {
     margin-right: 78px;
@@ -68,4 +68,6 @@ span {
 .about-text {
     display: flex;
     justify-content: right;
+    width: 800px;
+    height: 342px;
 }
