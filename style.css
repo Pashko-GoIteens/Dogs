@@ -16,6 +16,8 @@ a {
 /* хедер */
 .header {
     background-color: #121212;
+    padding-bottom: 32px;
+    padding-top: 32px;
 }
 span {
     color: #B2FFA6;
@@ -31,6 +33,7 @@ span {
 /* hero */
 .hero {
     background-color: #ffffff;
+    border-bottom: 1px solid #000000;
 }
 .hero-title {
     font-size: 64px;
@@ -42,8 +45,8 @@ span {
     margin-bottom: 20px;
 }
 .hero-img {
-    display: inline-block;
-    justify-content: space-around;
+    display: flex;
+    justify-content: right;
 }
 .hero-link {
     font-family: "Oswald", sans-serif;
@@ -68,6 +71,25 @@ span {
 .about-text {
     display: flex;
     justify-content: right;
+}
+/* services */
+.services {
+    background-color: #EFEFEF;
+}
+.services-text {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+}
+.services-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.services-item {
+    
 }
 /* footer */
 .footer {
