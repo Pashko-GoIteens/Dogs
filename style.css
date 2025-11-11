@@ -53,6 +53,7 @@ span {
     background-color: #B2FFA6;
     border-radius: 5px;
 }
+
 /* about */
 .about {
     background-color: #EFEFEF;
@@ -70,4 +71,19 @@ span {
     justify-content: right;
     width: 800px;
     height: 342px;
+}
+/* footer */
+.footer {
+    background-color: #121212;
+}
+.footer-img {
+    margin-right: 30px;
+}
+.footer-title {
+    color: #FFFFFF;
+    font-weight: 300;
+}
+.footer-span {
+    color: #FFFFFF;
+    font-weight: 700;
 }
