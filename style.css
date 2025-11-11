@@ -34,6 +34,7 @@ span {
 }
 .hero-title {
     font-size: 64px;
+    margin-bottom: 50px;
 }
 .hero-span {
     color: #000000;
@@ -43,8 +44,6 @@ span {
 .hero-img {
     display: inline-block;
     justify-content: space-around;
-    padding-left: 342px;
-    border-bottom: 1px solid #000000;
 }
 .hero-link {
     font-family: "Oswald", sans-serif;
@@ -69,8 +68,6 @@ span {
 .about-text {
     display: flex;
     justify-content: right;
-    width: 800px;
-    height: 342px;
 }
 /* footer */
 .footer {
